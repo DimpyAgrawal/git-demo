@@ -1,2 +1,2 @@
 # git-demo
-Author Dimpy Agrawal
+Author Dimpy (Developer)
